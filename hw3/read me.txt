@@ -1,0 +1,7 @@
+1.ANN_alg.java is for experiments (i) (ii) and (iii). And testIrisNoisy.java is for experiment (iv).
+
+2.Input the absolute path for each file,follow the indicate in the program.For Identity experiment (i),it will print the hidden units values.
+
+3.For example about the file path in eclipse: E:/Machine Learning/hw3/iris-attr.txt
+
+4.In the experiment (iv), for the testIrisNoisy.java, if the " number of iterations " too high,it will cost a lot time consume. So I suggest input less than 700.

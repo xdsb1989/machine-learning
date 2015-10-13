@@ -1,0 +1,13 @@
+1.Genetic_Algorithm.java is for experiments (i) and (ii).
+  testIrisSelection.java is for experiment (iii).
+  testIrisReplacement.java is for experiment (iv).
+
+2.Input the absolute path for each file,follow the indicate in the program.
+
+3.For example about the file path in eclipse: E:/Machine Learning/hw4/iris-attr.txt
+
+4.In all experiments, in my experience, a probable size for population is around 50 to 80. And a probable max generation size is around 500.And the fitness threshold can be 0.96.
+
+5.In my experience,"fitness-proportional" and "tournament" have the similar performance in term of the fitness and accuracy.
+As to "rank", the fitness sometimes changes a lot. Which means sometimes it can get a final high accuracy and fitness,but sometimes not.
+And moreover, for "rank" durning one running time, its fitness is not as stable as other two strategies.

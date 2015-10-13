@@ -1,0 +1,10 @@
+1. LMS_Alg.java is the code. When you start running the program,following the indication.You need to input the file name which is the training experience.
+
+2. The teacher_train_set.txt is the experience with teacher; withouteacher_train_set.txt is the experience without teacher.You need to input the absolute path of the file.For example,in eclipse the path is like this "E:/teacher_train_set.txt". Using "/" instead of "\".
+
+3. In the playing game part,computer plays "x" and you plays "o".Following the indicate that who plays first.Input the the number (1 to 9) which imply the spots as following:
+				1 2 3
+				4 5 6
+				7 8 9
+
+4. teacher_board.java and the random_board.java just the code for generating the two models board states. teacher_board.java will create a new board and write in the file append.While random_board will creat board states and refresh the previous board states. Actually,you don't need to run these two programs,I already provided the txt files.

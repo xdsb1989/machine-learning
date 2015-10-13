@@ -1,0 +1,5 @@
+Outlook Sunny Overcast Rain
+Temperature Hot Mild Cool
+Humidity High Normal
+Wind Weak Strong
+PlayTennis Yes No

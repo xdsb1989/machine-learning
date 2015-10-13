@@ -1,0 +1,5 @@
+1.Decision_tree_continuous.java is for experiments i and ii. And testIrisNoisy.java is for experiment iii.
+2.input the absolute path for each file,follow the indicate in the program.
+3.For example about the file path in eclipse: E:/Machine Learning/hw2/iris-attr.txt
+
+
